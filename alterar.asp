@@ -1,4 +1,5 @@
 <!-- #include file="conexao.asp" -->
+<!-- Alterar codigo" -->
 <%
 codigo=request.form("txt_codigo")
 nome=request.form("txt_nome")
